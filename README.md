@@ -1,6 +1,6 @@
 # jiucai 
 A Quantitative Trading System for Stock、Futures、Digital Currency and Foreign Currency.
-It will offer python API and web page or visualization.
+It will offer python API and web page for visualization.
  
 1.Time for Open Sourse?
 Depend author's mood. 
